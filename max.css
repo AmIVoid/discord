@@ -4,8 +4,22 @@
 }
 
 .large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/244010635803885568"]::after {
-  content: "☆:.｡.o(≧▽≦)o.｡.:☆";
+  content: "☆:.｡.o(≧▽≦)o.｡.:☆";{
+  color: rgba(0,255,0,.3);
+  font-size: 13px;
+  z-index: 1;
+  position: absolute;
   left:0%!important;
   top:115%;
+  padding-left: 2px;
+  padding-right: 4px;
+  border-radius: 2px;
+  margin-left: -3px;
+  transform: translate(0,1px);
+  cursor: pointer;
+  transition: 100ms ease;
+  pointer-events: initial;
+  /*animation: Brainbow 3s infinite linear;*/
+  }
 }
 /* MaxC / Minairi > w <#7932 */
