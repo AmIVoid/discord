@@ -1,13 +1,13 @@
 /* MaxC / Minairi > w <#7932 */
 .large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/244010635803885568"]::before {
+   z-index: 1;
+  position: absolute;
+  left:0%!important;
+  top:115%;
   content: url(https://i.imgur.com/Qi9e07Y.png);
 }
 
 .large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/244010635803885568"]::after{
-  z-index: 1;
-  position: absolute;
-  left:0%!important;
-  top:115%;
   content: "☆:.｡.o(≧▽≦)o.｡.:☆";
 }
 /* MaxC / Minairi > w <#7932 */
