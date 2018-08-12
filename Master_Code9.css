@@ -5188,73 +5188,68 @@ display:none;
 /* User Status 2 */
 /* DND */
 .statusDnd-2DDKST:not(.statusProfile-3ynqtt),.avatar-small .status-dnd{
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #f04747!important;
   border-radius: 5px !important;
-  background:none;
   opacity: 1 !important;
   animation: Dnd 3s linear infinite !important;
 }
 /* ONLINE */
 .statusOnline-1FlpW_:not(.statusProfile-3ynqtt),.avatar-small .status-online {
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #43b581!important;
   border-radius: 5px !important;
-  background:none;
   opacity: 1 !important;
   animation: Online 3s linear infinite !important;
 }
 /* AWAY */
 .statusIdle-1XoSCz:not(.statusProfile-3ynqtt),.avatar-small .status-idle  {
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #faa61a!important;
   border-radius: 5px !important;
-  background:none;
   opacity: 1 !important;
   animation: Away 3s linear infinite !important;
 }
 /* STREAM */
 .statusStreaming-2eqoUF:not(.statusProfile-3ynqtt) {
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #593695!important;
   border-radius: 5px !important;
-  background:none;
   opacity: 1 !important;
   animation: Stream 3s linear infinite !important;
 }
 /* OFFLINE */
 .avatarOffline-3GF27z{
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #747f8d!important;
   border-radius: 5px !important;
   animation: Offline 3s linear infinite !important;
 }
 .statusOffline-3R-4Bv:not(.statusOfflineProfile-9tGGr-),.avatar-small .status-invisible,.avatar-small .status-offline{
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #747f8d!important;
   border-radius: 5px !important;
-  background: none;
   opacity: 1 !important;
   animation: Offline 3s linear infinite !important;
 }
@@ -5270,7 +5265,6 @@ display:none;
   left: -10%!important;
   border: 2.5px solid #43b581!important;
   border-radius: 5px !important;
-  /* background:none; */
   opacity: 1 !important;
   animation: Online 3s linear infinite !important;
 }
@@ -5283,7 +5277,6 @@ display:none;
   left: -10%!important;
   border: 2.5px solid #43b581!important;
   border-radius: 5px !important;
-  /* background:none; */
   opacity: 1 !important;
   animation: Online 3s linear infinite !important;
 }
@@ -5296,7 +5289,6 @@ display:none;
   left: -10%!important;
   border: 2.5px solid #43b581!important;
   border-radius: 5px !important;
-  /* background:none; */
   opacity: 1 !important;
   animation: Online 3s linear infinite !important;
 }
@@ -5309,7 +5301,6 @@ display:none;
   left: -10%!important;
   border: 2.5px solid #43b581!important;
   border-radius: 5px !important;
-  /* background:none; */
   opacity: 1 !important;
   animation: Online 3s linear infinite !important;
 }
@@ -5322,7 +5313,6 @@ display:none;
   left: -10%!important;
   border: 2.5px solid #43b581!important;
   border-radius: 5px !important;
-  /* background:none; */
   opacity: 1 !important;
   animation: Online 3s linear infinite !important;
 }
