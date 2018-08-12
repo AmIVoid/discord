@@ -2051,7 +2051,7 @@ div.flex-spacer.flex-vertical form {
   text-transform: uppercase;
   vertical-align: bottom;
   border-radius: 3px;
-  margin-left: 6px;
+  margin-left: 0px;
   padding: 1px 2px;
   font-size: 10px;
   font-weight: 600;
@@ -2068,7 +2068,7 @@ div.flex-spacer.flex-vertical form {
   text-transform: uppercase;
   vertical-align: bottom;
   border-radius: 3px;
-  margin-left: 6px;
+  margin-left: 0px;
   padding: 1px 2px;
   font-size: 10px;
   font-weight: 600;
@@ -2083,7 +2083,7 @@ div.flex-spacer.flex-vertical form {
   background-size: 20px;
   width: 20px;
   height: 15px;
-  margin-left: 5px;
+  margin-left: 0px;
 }
 
 .channel.channel-voice:not(.collapsed) .avatar-small[style*="a_"] + span:after {
@@ -5243,7 +5243,7 @@ display:none;
   border-radius: 4px !important;
   background-size: cover !important;
   margin-left: 3px !important;
-  left:0px;
+  left:-5.2px;
 }
 
 .theme-dark .members-1998pB {
