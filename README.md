@@ -1,5 +1,5 @@
 # 🍆 Eggplant 🍆
-First official I've made. Theme has a blue color scheme. EST: 8 hours. Not compatible with minial mode/compact mode and light mode.
+First official discord theme I've made. Theme has a blue color scheme. EST: 8 hours. Not compatible with minial mode/compact mode and light mode.
 
 # How to edit
 
