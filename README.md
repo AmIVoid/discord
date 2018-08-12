@@ -1,3 +1,7 @@
+#Important
+
+Download [Better Discord](https://github.com/Jiiks/BetterDiscordApp/releases) if you havent already or you cannot install the theme
+
 # 🍆 Eggplant 🍆
 First official discord theme I've made. Theme has a blue color scheme. EST: 8 hours. Not compatible with minial mode/compact mode and light mode.
 
