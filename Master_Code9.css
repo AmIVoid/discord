@@ -3040,7 +3040,7 @@ div.form-inner, .form-actions {
 /* Search */
 
 .esc-text:after,.keybind-KpFkfr:after {
-  content: "Made By NFLD99";
+  content: "";
   font-size: 15px;
 }
 
@@ -6726,8 +6726,8 @@ color: var(--Main-Colour)!important;
 }
 
 .large-3ChYtB {
-  height: 32px;
-  width: 32px;
+  height: 5px;
+  width: 5px;
 }
 
 .theme-dark .desc-2Dttbk {
