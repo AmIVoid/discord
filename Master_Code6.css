@@ -1,0 +1,34 @@
+/*
+edited. original from NFLD99
+
+/*
+This Theme Uses Code From The Following Themes I DO NOT TAKE CREDIT FOR THE CODE USED FROM THEM,
+Please Check Them Out
+
+Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/master/Simplified-Green.theme.css   
+SmarterEmbeds  made by Beard_Design -> https://github.com/BeardDesign1/SmarterEmbeds/blob/master/SmarterEmbeds.theme.css 
+Server_Grid_2_Columns made by Jiiks -> https://gist.github.com/Jiiks/e1026d29aac91e7a7ad2d90dee87c90c 
+
+*/
+@import url(https://rawgit.com/NFLD99/Better-Discord/master/Notifications/Made_By_NFLD99.css);
+@import url(https://rawgit.com/rauenzi/BetterDiscordAddons/master/Themes/SwitchFix/SwitchFix.theme.css);
+@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/FI/FIL.css);
+:root{
+  --Update-Text: " 👀";
+}
+
+/* THANKYOU URI FOR HELPING ME UPDATE THIS <3 */
+[layer-id="user-settings"] .userSettingsAccount-2eMFVR ~ :last-child:after{
+  margin-bottom: -3px;
+  padding-top: 10px;
+  padding-left: 10px;
+  display: block;
+  background:transparent;
+  border:1px solid var(--Main-Colour);
+  border-radius: 5px;
+    content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 280" style="width:100%;height:100px;"><g style="fill: lime; font-size: .8em; font-family:verdana"><text y="20" style="font-size: 2em; fill: lime;">Links</text><text y="45" style="font-size: 1.1em;" x="37">https://twitter.com/AmyyVoid</text><text y="65" style="font-size: 1.1em;" x="37">Thats really it</text><text y="85" style="font-size: 1.1em;" x="37">Seriously</text><text y="115" style="font-size: 2em; fill: lime;">Rainbows</text><text y="140" style="font-size: 1.1em;" x="37">owo</text><text y="150" style="font-size: 1.1em;" x="37">uwu</text><text y="180" style="font-size: 1.1em;" x="37">ヾ(・ω・｀)</text><text y="200" style="font-size: 1.1em;" x="37">'w'</text></g></svg>');
+  animation: CLog 10s infinite linear;
+}
+/* THANKYOU URI FOR HELPING ME UPDATE THIS <3 */
+
+/* THANKYOU URI FOR HELPING ME UPDATE THIS <3 */
