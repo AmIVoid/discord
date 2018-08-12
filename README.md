@@ -1,4 +1,4 @@
-#Important
+# Important
 
 Download [Better Discord](https://github.com/Jiiks/BetterDiscordApp/releases) if you havent already or you cannot install the theme
 
