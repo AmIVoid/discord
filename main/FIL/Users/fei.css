@@ -1,0 +1,8 @@
+/* Fei#9222 */
+.large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/312123202073657345"]::before {
+  content: url(https://i.imgur.com/iLtFPAp.png);
+}
+
+.large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/312123202073657345"]::after {
+}
+/* Fei#9222 */
