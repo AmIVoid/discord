@@ -12,7 +12,7 @@ Server_Grid_2_Columns made by Jiiks -> https://gist.github.com/Jiiks/e1026d29aac
 */
 @import url(https://rawgit.com/NFLD99/Better-Discord/master/Notifications/Made_By_NFLD99.css);
 @import url(https://rawgit.com/rauenzi/BetterDiscordAddons/master/Themes/SwitchFix/SwitchFix.theme.css);
-@import url(https://rawgit.com/NFLD99/Better-Discord/master/Source_Code/FI/FIL.css);
+@import url(https://rawgit.com/AmIVoid/discord/master/FIL.css);
 :root{
   --Update-Text: " 👀";
 }
@@ -29,7 +29,6 @@ Server_Grid_2_Columns made by Jiiks -> https://gist.github.com/Jiiks/e1026d29aac
     content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 280" style="width:100%;height:100px;"><g style="fill: lime; font-size: .8em; font-family:verdana"><text y="20" style="font-size: 2em; fill: lime;">Links</text><text y="45" style="font-size: 1.1em;" x="37">https://twitter.com/AmyyVoid</text><text y="65" style="font-size: 1.1em;" x="37">Thats really it</text><text y="85" style="font-size: 1.1em;" x="37">Seriously</text><text y="115" style="font-size: 2em; fill: lime;">Rainbows</text><text y="140" style="font-size: 1.1em;" x="37">owo</text><text y="150" style="font-size: 1.1em;" x="37">uwu</text><text y="180" style="font-size: 1.1em;" x="37">ヾ(・ω・｀)</text><text y="200" style="font-size: 1.1em;" x="37">'w'</text></g></svg>');
   animation: CLog 10s infinite linear;
 }
-
 /* THANKYOU URI FOR HELPING ME UPDATE THIS <3 */
 
 /* THANKYOU URI FOR HELPING ME UPDATE THIS <3 */
@@ -43,6 +42,78 @@ Server_Grid_2_Columns made by Jiiks -> https://gist.github.com/Jiiks/e1026d29aac
   -webkit-filter: hue-rotate(360deg);
   }
 }
+
+/* Boops */
+
+.large-3ChYtB:not(.popout-2fzvxG)::after {
+  white-space: pre;
+  background-color: var(--Background-Colour) !important;
+  box-shadow: 1px 1px 15px rgba(0,216,86, 0.9)!important;
+  padding: 6px 10px;
+  border-radius: 3px;
+  font-size: 13px;
+  z-index: 3000000;
+  display: inline;
+  position: relative;
+  left: 100%;
+  top: 50%;
+  transform: translate(0, -50%);
+  pointer-events: none;
+  transition: 80ms ease;
+  color: var(--Main-Colour);
+  opacity: 0;
+  animation: rainbow 3s infinite linear;
+}
+
+.large-3ChYtB:not(.popout-2fzvxG):hover::after {
+  opacity: 1;
+  transition: 180ms ease-in-out 100ms;
+  animation: boop .5s 1 linear;
+}
+
+.large-3ChYtB:not(.popout-2fzvxG):not(:hover)::after {
+  opacity: 0;
+  transition: 180ms ease-in-out 150ms;
+  animation: boop2 .5s 1 linear;
+}
+
+.large-3ChYtB:not(.popout-2fzvxG) {
+  cursor: pointer;
+}
+
+.large-3ChYtB:not(.popout-2fzvxG)::before {
+  color: rgba(0,255,0,.3);
+  font-size: 13px;
+  z-index: 1;
+  position: absolute;
+  left:38.9%!important;
+  top:115%;
+  padding-left: 2px;
+  padding-right: 4px;
+  border-radius: 2px;
+  margin-left: -3px;
+  transform: translate(0,1px);
+  cursor: pointer;
+  transition: 100ms ease;
+  pointer-events: initial;
+  animation: Brainbow 3s infinite linear;
+}
+
+.large-3ChYtB:not(.popout-2fzvxG)::before,
+.large-3ChYtB:not(.popout-2fzvxG).large-3ChYtB:not(.popout-2fzvxG)::after,
+.large-3ChYtB:not(.popout-2fzvxG).large-3ChYtB:not(.popout-2fzvxG)::before,
+.large-3ChYtB:not(.popout-2fzvxG).large-3ChYtB:not(.popout-2fzvxG)::after {
+  display: inline-block!important;
+}
+
+.avatar-17mtNa:hover {
+  opacity: 1;
+}
+
+.large-3ChYtB:not(.popout-2fzvxG){
+  background-visibility: hidden!important;
+}
+/* Boops */
 
 .guildsWrapper-5TJh6A .guilds-1q_RqH > .guild:first-child{
   margin-top:10px!important;
@@ -83,7 +154,7 @@ Server_Grid_2_Columns made by Jiiks -> https://gist.github.com/Jiiks/e1026d29aac
 
 .app {
   background: var(--Chat-Background) 50% 50%/cover !important;
-  animation: Load4 3s 1 linear;
+  animation: Load7 3s 1 linear;
   font-family: var(--Chat-Font-Used)!important;
 }
 
@@ -203,6 +274,24 @@ form.deprecated.auth-form footer {
 
 #qs_button {
   left: 400px;
+}
+
+#qs_button{
+  font-size: 0;
+}
+
+#qs_button:after {
+  content: " Save File (Shift To Save As).";
+  font-size: 15px;
+}
+
+.downloadLink-1ywL9o{
+  color: var(--Main-Colour)!important;
+}
+
+.anchor-3Z-8Bb:after {
+  content: " ";
+  font-size: 15px;
 }
 
 #friends, #friends .btn, .friends-header, .friends-table, .search-bar, .guildsWrapper-5TJh6A, .channels-wrap, .guild-channels, .account, .links, .messagesWrapper-3lZDfY, .title-wrap, .content, .chat-empty, .message-group-blocked, .private-channels, .guild-header header, .ider-red span {
@@ -2401,27 +2490,6 @@ div.flex-spacer.flex-vertical form {
   color: var(--Main-Colour)!important;
 }
 
-  /* "name":"SmarterEmbeds","description":"It basically makes the embeds align horizontally, so when there's multitple links in the same message, it takes less space in the chat.","author":"Beard_Design","version":"1.0.0" */
-.message-group .accessory {
-  display: flex;
-  flex-flow: row wrap;
-}
-
-.message-group .accessory>*:not(:last-of-type) {
-  margin-right: 10px;
-}
-
-.message-group .accessory>* {
-  margin-top: 5px;
-}
-
-.reactions {
-  width: 100%;
-  flex: 100%;
-  order: 9999999999;
-}
-   /* "name":"SmarterEmbeds","description":"It basically makes the embeds align horizontally, so when there's multitple links in the same message, it takes less space in the chat.","author":"Beard_Design","version":"1.0.0" */
-
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild,
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.guildInner-3DSoA4 a {
   width: 40px;
@@ -2971,6 +3039,36 @@ div.form-inner, .form-actions {
 }
 /* Search */
 
+.esc-text:after,.keybind-KpFkfr:after {
+  content: "Made By AmyyVoid";
+  font-size: 15px;
+}
+
+.esc-text:after,.keybind-KpFkfr {
+  font-size: 0px;
+}
+
+.theme-dark .keybind-KpFkfr{
+  color: var(--M-Colour);
+}
+
+.theme-dark .closeButton-1tv5uR {
+  border-color: var(--M-Colour);
+  background-color: var(--S-Colour);
+}
+
+.theme-dark .closeButton-1tv5uR:hover {
+  border-color: var(--Background-Colour);
+  background-color: var(--Main-Colour);
+}
+
+.closeButton-1tv5uR > svg > g > path.fill{
+  fill:var(--M-Colour)
+}
+
+.closeButton-1tv5uR:hover > svg > g > path.fill{
+  fill:var(--Background-Colour)
+}
 
 #user-profile-modal .avatar-wrapper {
   position: absolute;
@@ -3658,6 +3756,16 @@ body{
   font-size: 15px;
 }
 
+.message-group .message .markup-2BOw-j a[href*="https://gyazo.com"], .markup-2BOw-j.da-markup > a[href*="https://gyazo.com"] {
+  font-size: 0;
+}
+
+.message-group .message .markup-2BOw-j a[href*="https://gyazo.com"]:after, .markup-2BOw-j.da-markup > a[href*="https://gyazo.com"]:after {
+  content: " This website is not supported by anyone who like previews.";
+  font-size: 15px;
+  animation: Links 2s infinite linear;
+}
+
 .theme-dark .noChannel-Z1DQK7{
   background:transparent!important;
 }
@@ -4150,11 +4258,11 @@ button.btn.btn-default {
   color:var(--Main-Colour);
 }
 
-.message-group .message .markup-2BOw-j a[href="https://discord.gg/aSyUs69"] , .markup-2BOw-j.da-markup > a[href="https://discord.gg/aSyUs69"] {
+.message-group .message .markup-2BOw-j a[href="https://discord.gg/kWRYPrq"] , .markup-2BOw-j.da-markup > a[href="https://discord.gg/kWRYPrq"] {
   font-size: 0;
 }
 
-.message-group .message .markup-2BOw-j a[href="https://discord.gg/aSyUs69"]:after , .markup-2BOw-j.da-markup > a[href="https://discord.gg/aSyUs69"]:after {
+.message-group .message .markup-2BOw-j a[href="https://discord.gg/kWRYPrq"]:after , .markup-2BOw-j.da-markup > a[href="https://discord.gg/kWRYPrq"]:after {
   content: "NFLD99s Support Server";
   color:var(--Main-Colour);
   font-size: 15px;
@@ -4943,10 +5051,6 @@ display:none;
   padding-top:0px !important;
 }
 
-.guildsWrapper-5TJh6A .scroller-wrap {
-  width: 120px !important;
-}
-
 .guild-1EfMGQ.folder .badge-1GsMF2.folder.count {
   background: var(--S-Colour) !important;
   border-color: transparent !important;
@@ -5084,73 +5188,68 @@ display:none;
 /* User Status 2 */
 /* DND */
 .statusDnd-2DDKST:not(.statusProfile-3ynqtt),.avatar-small .status-dnd{
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #f04747!important;
   border-radius: 5px !important;
-  background:none;
   opacity: 1 !important;
   animation: Dnd 3s linear infinite !important;
 }
 /* ONLINE */
 .statusOnline-1FlpW_:not(.statusProfile-3ynqtt),.avatar-small .status-online {
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #43b581!important;
   border-radius: 5px !important;
-  background:none;
   opacity: 1 !important;
   animation: Online 3s linear infinite !important;
 }
 /* AWAY */
 .statusIdle-1XoSCz:not(.statusProfile-3ynqtt),.avatar-small .status-idle  {
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #faa61a!important;
   border-radius: 5px !important;
-  background:none;
   opacity: 1 !important;
   animation: Away 3s linear infinite !important;
 }
 /* STREAM */
 .statusStreaming-2eqoUF:not(.statusProfile-3ynqtt) {
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #593695!important;
   border-radius: 5px !important;
-  background:none;
   opacity: 1 !important;
   animation: Stream 3s linear infinite !important;
 }
 /* OFFLINE */
 .avatarOffline-3GF27z{
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #747f8d!important;
   border-radius: 5px !important;
   animation: Offline 3s linear infinite !important;
 }
 .statusOffline-3R-4Bv:not(.statusOfflineProfile-9tGGr-),.avatar-small .status-invisible,.avatar-small .status-offline{
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #747f8d!important;
   border-radius: 5px !important;
-  background: none;
   opacity: 1 !important;
   animation: Offline 3s linear infinite !important;
 }
@@ -5159,68 +5258,63 @@ display:none;
 /* User Status 3 */
 /* DND */
 .dnd-1_xrcq:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #f04747!important;
   border-radius: 5px !important;
-  background:none;
   opacity: 1 !important;
-  animation: Dnd 3s linear infinite !important;
+  animation: Online 3s linear infinite !important;
 }
 /* ONLINE */
 .online-2S838R:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #43b581!important;
   border-radius: 5px !important;
-  background:none;
   opacity: 1 !important;
   animation: Online 3s linear infinite !important;
 }
 /* AWAY */
 .idle-3DEnRT:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #faa61a!important;
   border-radius: 5px !important;
-  background:none;
   opacity: 1 !important;
-  animation: Away 3s linear infinite !important;
+  animation: Online 3s linear infinite !important;
 }
 /* STREAM */
 .streaming-2_dnHe:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #593695!important;
   border-radius: 5px !important;
-  background:none;
   opacity: 1 !important;
-  animation: Stream 3s linear infinite !important;
+  animation: Online 3s linear infinite !important;
 }
 /* OFFLINE */
 .invisible-1kp8Z0:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG), .offline-3qoTek:not(.statusProfile-3ynqtt):not(.status-3fQvEa):not(.popout-2fzvxG) {
-  width: 114%!important;
-  height: 114%!important;
+  width: 30%!important;
+  height: 30%!important;
   box-sizing: border-box;
-  top: -6.3%!important;
-  left: -6.3%!important;
+  top: -10%!important;
+  left: -10%!important;
   border: 2.5px solid #747f8d!important;
   border-radius: 5px !important;
-  background: none;
   opacity: 1 !important;
-  animation: Offline 3s linear infinite !important;
+  animation: Online 3s linear infinite !important;
 }
 /* Status Popup */
 .status-3fQvEa{
@@ -5234,7 +5328,7 @@ display:none;
   border-radius: 4px !important;
   background-size: cover !important;
   margin-left: 3px !important;
-  left:-5.2px;
+  left:0px;
 }
 
 .theme-dark .members-1998pB {
@@ -6902,7 +6996,7 @@ color: var(--Main-Colour)!important;
 }
 
 .theme-dark .divider-3gKybi span {
-  background-color: var(--S-Colour);
+  background-color: var(--Background-Colour);
 }
 
 .container-1YxwTf{
@@ -6976,74 +7070,143 @@ color: var(--Main-Colour)!important;
   color: var(--M-Colour);
 }
 
-/* Boops */
+.typing-2GQL18 > span.ellipsis-19qdx6.da-ellipsis > span{
+  width:28px
+}
 
-.large-3ChYtB:not(.popout-2fzvxG)::after {
-  white-space: pre;
-  background-color: var(--Background-Colour) !important;
-  box-shadow: 1px 1px 15px rgba(0,216,86, 0.9)!important;
-  padding: 6px 10px;
-  border-radius: 3px;
-  font-size: 13px;
-  z-index: 3000000;
-  display: inline;
-  position: relative;
-  left: 100%;
-  top: 50%;
-  transform: translate(0, -50%);
-  pointer-events: none;
-  transition: 80ms ease;
+.theme-dark .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-,.theme-dark .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-,.theme-dark .messageGroupBlocked-3wrQQX.revealed-1_RKsf {
+  background: var(--S-Colour);
+}
+
+.theme-dark .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-,.theme-dark .messageGroupBlocked-3wrQQX.revealed-1_RKs{
   color: var(--Main-Colour);
-  opacity: 0;
-  animation: rainbow 3s infinite linear;
 }
 
-.large-3ChYtB:not(.popout-2fzvxG):hover::after {
-  opacity: 1;
-  transition: 180ms ease-in-out 100ms;
-  animation: boop .5s 1 linear;
+.theme-dark .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-,.theme-dark .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-,.theme-dark .messageGroupBlocked-3wrQQX.revealed-1_RKsf,.theme-dark .messageGroupBlocked-3wrQQX{
+  background: var(--S-Colour);
+  border-color: var(--M-Colour);
 }
 
-.large-3ChYtB:not(.popout-2fzvxG):not(:hover)::after {
-  opacity: 0;
-  transition: 180ms ease-in-out 150ms;
-  animation: boop2 .5s 1 linear;
+.theme-dark .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-,.theme-dark .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-,.theme-dark .messageGroupBlocked-3wrQQX.revealed-1_RKsf{
+  border-color: var(--M-Colour);
+  box-shadow: none;
 }
 
-.large-3ChYtB:not(.popout-2fzvxG) {
-  cursor: pointer;
+.theme-dark .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-:hover,.theme-dark .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-:hover,.theme-dark .messageGroupBlocked-3wrQQX.revealed-1_RKsf:hover,.theme-dark .messageGroupBlocked-3wrQQX:hover{
+  background: var(--S-Colour);
+  border-color: var(--Main-Colour);
 }
 
-.large-3ChYtB:not(.popout-2fzvxG)::before {
-  color: rgba(0,255,0,.3);
-  font-size: 13px;
-  z-index: 1;
+.jumpToPresentBar-9P20AM button,.jumpToPresentBar-9P20AM button:last-child{
+  color: var(--M-Colour);
+}
+
+.theme-dark .jumpToPresentBar-9P20AM{
+  background: var(--Background-Colour);
+  border: 1px solid var(--M-Colour);
+}
+
+.jumpToPresentBar-9P20AM button:hover,.jumpToPresentBar-9P20AM button:last-child:hover{
+  color: var(--Main-Colour);
+}
+
+.theme-dark .jumpToPresentBar-9P20AM:hover{
+  background: var(--Background-Colour);
+  border: 1px solid var(--Main-Colour);
+}
+
+.guildsAddinner-1KMFy-{
+  top: -2px;
+  left: 1px;
+}
+
+.theme-dark .container-2x5lvQ header,.theme-dark .container-2x5lvQ section{
+  background: var(--Background-Colour);
+}
+
+.theme-dark .container-2x5lvQ section p{
+  color: var(--M-Colour);
+}
+
+.theme-dark .container-2x5lvQ section strong{
+  color: var(--Main-Colour);
+}
+
+.container-2x5lvQ{
+  border: 1px solid var(--Main-Colour);
+  border-radius: 3px;
+}
+
+.theme-dark .gameLibrary-TTDw4Y{
+  background: transparent;
+}
+
+.theme-dark .rowWrapper-2fB6P0+.rowWrapper-2fB6P0 .row-ZLfFhY {
+  border-top-color: var(--M-Colour);
+}
+
+.rowWrapper-2fB6P0+.rowWrapper-2fB6P0 .row-ZLfFhY {
+  border-top: 1px solid transparent;
+}
+
+.theme-dark .row-ZLfFhY{
+  color: var(--Main-Colour);
+}
+
+.theme-dark .headerCellSorted-3a5AzJ {
+  color: var(--Main-Colour);
+}
+
+.theme-dark .headerCell-3L6rFG {
+  border-left-color: var(--M-Colour);
+}
+
+.theme-dark .header-39GIC8 {
+  border-bottom-color: var(--M-Colour);
+  color: var(--M-Colour);
+}
+
+.theme-dark .headerCell-3L6rFG:hover:not(.headerCellSorted-3a5AzJ) {
+  color: var(--Main-Colour);
+}
+
+.rowBackground-3MeNoN {
+  -webkit-filter: none;
+  -webkit-mask: radial-gradient(100% 100% at top left,var(--S-Colour) 0,var(--S-Colour));
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+  bottom: 0;
+  filter: none;
+  left: 0;
+  mask: radial-gradient(100% 100% at top left,var(--S-Colour) 0,var(--S-Colour));
   position: absolute;
-  left:25%;
-  top:115%;
-  padding-left: 2px;
-  padding-right: 4px;
-  border-radius: 2px;
-  margin-left: -3px;
-  transform: translate(0,1px);
-  cursor: pointer;
-  transition: 100ms ease;
-  pointer-events: initial;
-  animation: rainbow 3s infinite linear;
+  top: 0;
+  width: 272px;
 }
 
-.large-3ChYtB:not(.popout-2fzvxG)::before,
-.large-3ChYtB:not(.popout-2fzvxG).large-3ChYtB:not(.popout-2fzvxG)::after,
-.large-3ChYtB:not(.popout-2fzvxG).large-3ChYtB:not(.popout-2fzvxG)::before,
-.large-3ChYtB:not(.popout-2fzvxG).large-3ChYtB:not(.popout-2fzvxG)::after {
-  display: inline-block!important;
+.theme-dark .rowWrapperActive-2L7i9f {
+  -webkit-box-shadow: 0 2px 5px 0 var(--M-Colour);
+  background-color: transparent;
+  box-shadow: 0 2px 5px 0 var(--M-Colour);
 }
 
-.avatar-17mtNa:hover {
-  opacity: 1;
+.theme-dark .actionIconBase-2L-mPj{
+  color: var(--Main-Colour);
 }
 
-.large-3ChYtB:not(.popout-2fzvxG){
-  background-visibility: hidden!important;
+.container-1YxwTf .container-1e22Ot{
+  display: flex;
+  flex-flow: row wrap;
 }
-/* Boops */
+.container-1YxwTf .container-1e22Ot>*:not(:last-of-type){
+  margin-right:10px;
+}
+.container-1YxwTf .container-1e22Ot>*{
+  margin-top:5px;
+}
+.reactions{
+  width:100%;
+  flex:100%;
+  order:9999999999;
+}
