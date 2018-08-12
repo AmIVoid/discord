@@ -1,6 +1,10 @@
 /* 96.4#6641 */
 .large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/213630139035156480"]::before {
-  content: url(https://i.imgur.com/ORj3K4x.gif);
+  z-index: 1;
+  position: absolute;
+  left:0%!important;
+  top:115%;  
+  content: url(https://i.imgur.com/4pVFPRd.gif);
 }
 
 .large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/213630139035156480"]::after {
