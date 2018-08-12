@@ -1,7 +1,6 @@
 /*
-edited. original from NFLD99
+edited original from NFLD99
 
-/*
 This Theme Uses Code From The Following Themes I DO NOT TAKE CREDIT FOR THE CODE USED FROM THEM,
 Please Check Them Out
 
@@ -4239,22 +4238,6 @@ display:none;
   color: var(--Main-Colour);
 }
 
-.uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .inner-1-09ZV .icon-19bbE_.one-3Z3WUg {
-  background-image: url(/assets/60c3eaf0d7173c929482362ea1d2543a.svg);
-}
-
-.uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .inner-1-09ZV .icon-19bbE_.two-3djYgO {
-  background-image: url(/assets/4ab2ee5027741df387151ca717ae5614.svg);
-}
-
-.uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .inner-1-09ZV .icon-19bbE_.three-jJjLhh {
-  background-image: url(/assets/a4ef7d20760cef4c165825770fd12ac7.svg);
-}
-
-.uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .inner-1-09ZV .instructions-KnejBP {
-  color:  var(--M-Colour);
-}
-
 .inviteModal-34DdOm .scroller {
   background: var(--Background-Colour);
 }
@@ -4317,7 +4300,7 @@ display:none;
   border-radius: 3px;
   color: Var(--Main-Colour);
 }
-/* Thanks to Uri#0001 */
+
 .bd-toasts,.toasts{
   width:calc(100% - 10px)!important;
   height:calc(100% - 70px)!important;
@@ -4351,7 +4334,7 @@ display:none;
 [class*="toast"]{
   font-size:10px!important;
 }
-/* Thanks to Uri#0001 */
+
 .regionSelectModal-12e-57{
   background:var(--Popout-Background);
 }
@@ -4809,25 +4792,20 @@ display:none;
   color: var(--M-Colour)!important;
 }
 
-/* Support For Clock */
 #clockPluginClock{
   color: var(--Main-Colour)!important;
   background: transparent;
   bottom: 0px;
   right: 258px;
 }
-/* Support For Clock */
 
-/* Support For Switch Fix */
 .ui-switch-checkbox:checked+.ui-switch {
   background: var(--Main-Colour);
 }
 .ui-switch-wrapper .ui-switch {
   background: var(--Background-Colour);
 }
-/* Support For Switch Fix */
 
-/* Support For Better Formatting Redux */
 .bf-toolbar:before{
   background: var(--S-Colour)!important;
   }
@@ -4844,21 +4822,15 @@ display:none;
   .bf-toolbar{
   top: 25px!important;
   }
-  /* Support For Better Formatting Redux */
 
-/* Support For Horizontal Server List */
 .app {
   --guild-column-count: calc(26 / 17);
 }
-/* Support For Horizontal Server List */
 
-/* Support For Avatar Hover */
 #AvatarHover {
   box-shadow: 1px 1px 15px var(--Main-Colour)!important;
 }
-/* Support For Avatar Hover */
 
-/* Support For Date Viewer */
 #dv-mount{
   background: transparent!important;
   bottom: 0;
@@ -4873,9 +4845,7 @@ display:none;
   border-color: transparent;
   color: var(--Main-Colour)!important;
 }
-/* Support For Date Viewer */
 
-/* Support For Copy Images */
 .modal-image .download-button:nth-of-type(1) {
   position: absolute;
   left: 200px;
@@ -4889,9 +4859,7 @@ display:none;
   bottom: 6px;
   pointer-events: auto;
 }
-/* Support For Copy Images */
 
-/* Support For tagID */
 #tagID {
   font-size: 10px;
   letter-spacing: 0.025rem;
@@ -4908,9 +4876,7 @@ display:none;
   color: var(--Main-Colour);
   font-family: 'Roboto', 'Inconsolata', 'Whitney', sans-serif;
 }
-/* Support For name IDs */
 
-/* Support For Server Folders */
 .serverfolders-modal .form-tabcontent,.serverfolders-modal .form-tabcontent,.serverfolders-modal .form-tab,.serverfolders-modal .control-group label, .serverfolders-modal .form-tab button,.serverfolders-modal .modal-inner{
   background: var(--Background-Colour)!important;
   background-color: var(--Background-Colour)!important;
@@ -4929,9 +4895,7 @@ display:none;
   border: 1px solid var(--Main-Colour)!important;
   background-color: var(--M-Colour)!important;
 }
-/* Support For Server Folders */
 
-/* Support For Server Folders 2 */
 .foldercontainer {
   width: 50.5px !important;
   background: var(--Background-Colour) !important;
@@ -5002,9 +4966,6 @@ display:none;
   transition: none !important;
 }
 
-/* Support For Server Folders 2 */
-
-/* Support For Repo Plugins */
 .pluginrepo-modal .pluginEntry.downloadable .btn-download,.pluginrepo-modal .pluginEntry.updated .btn-download,.themerepo-modal .themeEntry.downloadable .btn-download,.themerepo-modal .themeEntry.downloadable .btn-download {
   color: var(--Main-Colour)!important;
   background-color: Var(--S-Colour)!important;
@@ -5016,16 +4977,12 @@ display:none;
   background-color: Var(--Background-Colour)!important;
   border: 1px Solid var(--Main-Colour)!important;
 }
-/* Support For Repo Plugins */
 
-/* Support For Member Count */
 .theme-dark #memberCount{
   background:transparent!important;
   color:var(--M-Colour)!important;
 }
-/* Support For Member Count */
 
-/* Support For ChannelHistory */
 .channelHistoryButtons .btn{
   position:flex;
 }
@@ -5062,9 +5019,6 @@ display:none;
   border: 1px solid var(--M-Colour);
   background:transparent!important;
 }
-/* Support For ChannelHistory */
-
-/* Support For ServerSearch */
 
 .theme-dark .selectableItem-1MP3MQ {
   color: var(--M-Colour);
@@ -5079,9 +5033,6 @@ display:none;
   color: var(--Main-Colour);
 }
 
-/* Support For ServerSearch */
-
-/* User Status 2 */
 /* DND */
 .statusDnd-2DDKST:not(.statusProfile-3ynqtt),.avatar-small .status-dnd{
   width: 30%!important;
@@ -6676,11 +6627,9 @@ color: var(--Main-Colour)!important;
   width: 40px;
 }
 
-/* Thanks to Sato#4997 For this Fix */
 .container-2Thooq .status-2kJpnA { 
   pointer-events: none; 
 }
-/* Thanks to Sato#4997 For this Fix */
 
 .theme-dark .container-1rPqdX{
   background: var(--Background-Colour) !important;
