@@ -1,0 +1,9 @@
+/* 96.4#6641 */
+.badge-1GsMF2:not(.wrapper-232cHJ)[style*="avatars/213630139035156480"]::before {
+  content: url(https://i.imgur.com/MnmtW8e.png);
+}
+
+.badge-1GsMF2:not(.wrapper-232cHJ)[style*="avatars/213630139035156480"]::after {
+  content: "Rice";
+}
+/* 96.4#6641 */
