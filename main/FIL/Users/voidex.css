@@ -1,13 +1,13 @@
 /* 96.4#6641 */
-*:not(.badge-1GsMF2):not(.wrapper-232cHJ)
-  text-shadow: 0 0 1px var(--Text-Shadow-Colour), 0 0 1px var(--Text-Shadow-Colour), 0 0 1px var(--Text-Shadow-Colour), 0 0 1px var(--Text-Shadow-Colour)!important;
-  [style*="avatars/213630139035156480"]::before {
-  background-image: url(https://i.imgur.com/MnmtW8e.png);
+.large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/213630139035156480"]::before {
+  z-index: 1;
+  position: absolute;
+  left:-500%!important;
+  top:250%;  
+  content: url(https://i.imgur.com/MnmtW8e.png);
 }
 
-*:not(.badge-1GsMF2):not(.wrapper-232cHJ) {
-  text-shadow: 0 0 1px var(--Text-Shadow-Colour), 0 0 1px var(--Text-Shadow-Colour), 0 0 1px var(--Text-Shadow-Colour), 0 0 1px var(--Text-Shadow-Colour)!important;
-  [style*="avatars/213630139035156480"]::after {
+.large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/213630139035156480"]::after {
   content: "Rice";
 }
 /* 96.4#6641 */
