@@ -1,0 +1,12 @@
+.profileBadgePremium-3kZ9Qj {
+  background-image: url(https://discordapp.com/assets/386884eecd36164487505ddfbac35a9d.svg);
+}
+/* 96.4#6641 */
+.profileBadgePremium-3kZ9Qj:not(.profileBadgePremium-3kZ9Qj)[style*="avatars/213630139035156480"]::before {
+  background-image: url(https://discordapp.com/assets/386884eecd36164487505ddfbac35a9d.svg);
+}
+
+.profileBadgePremium-3kZ9Qj:not(.profileBadgePremium-3kZ9Qj)[style*="avatars/213630139035156480"]::after {
+  content: "Theme Dev";
+}
+/* 96.4#6641 */
