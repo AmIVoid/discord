@@ -23,7 +23,7 @@
 }
 
 
-@keyframes shakeUnread {
+/*@keyframes shakeUnread {
   0% {
     transform: translate(calc(100% / -2 - 36px), 0);
   }
@@ -31,7 +31,7 @@
   100% {
     transform: translate(calc(100% / 2 + 8px), 0);
   }
-}
+}*/
 
 @keyframes rainbow {
   from {
