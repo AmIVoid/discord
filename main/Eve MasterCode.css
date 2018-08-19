@@ -5999,17 +5999,10 @@ display:none;
   background: linear-gradient(to left, transparent, var(--Background-Colour), var(--Notification-Colour));
 }
 
-/*.unread-1Dp-OI{
-  content: "";
-  width: calc(100% - 36px - 8px);
-  height: 150%;
-  position: absolute;
-  display: block;
-  left: 53px;
-  top: 1px;
-  background: linear-gradient(to right, transparent, var(--S-Colour), var(--Notification-Colour), var(--S-Colour), transparent);
-  animation: shakeUnread 2s ease-in-out infinite alternate;
-}*/
+.unread-1Dp-OI {
+	border-radius: 0;
+	background-color: var(--secondary-color);
+}
 
 .iconCollapsed-3hFp_8, .iconDefault-3Gr8d2, .nameCollapsed-34uFWo, .nameDefault-2DI02H,.theme-dark .activityProfile-2bJRaP .content-3JfFJh, .theme-dark .activityProfile-2bJRaP .details-38sfDr, .theme-dark .activityProfile-2bJRaP .name-29ETJS, .theme-dark .activityUserPopout-2yItg2 .content-3JfFJh, .theme-dark .activityUserPopout-2yItg2 .details-38sfDr, .theme-dark .activityUserPopout-2yItg2 .name-29ETJS, .theme-light .activityProfile-2bJRaP .content-3JfFJh, .theme-light .activityProfile-2bJRaP .details-38sfDr, .theme-light .activityProfile-2bJRaP .name-29ETJS, .theme-light .activityUserPopout-2yItg2 .content-3JfFJh, .theme-light .activityUserPopout-2yItg2 .details-38sfDr, .theme-light .activityUserPopout-2yItg2 .name-29ETJS,.theme-dark .item-1GzJrl.invite-271nFU,.theme-dark .mentionFilter-1PQ6ey .label-12YslM{
   color: var(--M-Colour)!important;
