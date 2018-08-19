@@ -57,7 +57,7 @@
   }
 }
 
-@keyframes TextScroll {
+/*@keyframes TextScroll {
   from {
     left:-230px;
   }
@@ -65,7 +65,7 @@
   to {
     left:100%;
   }
-}
+}*/
 
 @keyframes pulse {
   0% {
