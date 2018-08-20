@@ -6304,7 +6304,7 @@ color: var(--Main-Colour)!important;
 }
 
 *:not(.badge-1GsMF2):not(.wrapper-232cHJ) {
-  text-shadow: 0 0 1px var(--Text-Shadow-Colour), 0 0 1px var(--Text-Shadow-Colour), 0 0 1px var(--Text-Shadow-Colour), 0 0 1px var(--Text-Shadow-Colour)!important;
+  text-shadow: 0 0 0px var(--Text-Shadow-Colour), 0 0 0px var(--Text-Shadow-Colour), 0 0 0px var(--Text-Shadow-Colour), 0 0 0px var(--Text-Shadow-Colour)!important;
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D{
