@@ -424,11 +424,6 @@ margin-top:18px;
 top:-7px;
 }
 
-.theme-dark .isMentioned-N-h9aa .mention,.theme-dark .wrapper-3WhCwL,.mentioned .mention {
-background-color:#000!important;
-color:#FFF;
-}
-
 .theme-dark .isMentioned-N-h9aa .mention:hover,.theme-dark .wrapper-3WhCwL:hover,.mentioned .mention:hover {
 border:1px solid #fac3dc;
 background-color:#000!important;
