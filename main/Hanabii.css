@@ -83,6 +83,7 @@ Server_Grid_2_Columns made by Jiiks -> https://gist.github.com/Jiiks/e1026d29aac
 
 .large-3ChYtB:not(.popout-2fzvxG)::before {
   color: rgba(0,255,0,.3);
+  background: rgba(0,0,0,.5)
   font-size: 13px;
   z-index: 1;
   position: absolute;
