@@ -752,6 +752,12 @@ https://i.imgur.com/mZuRmBg.gifv
 .theme-dark .container-2x5lvQ section {
     background-color: rgba(1, 28, 29, 0.7);
 }
+/*Text shadow*/
+.theme-dark .markup-2BOw-j {
+    color: #dcddde;
+    text-shadow: 0 0 4px rgba(0,0,0,1);
+}
+
 /* Compact settings of asteria */
 .ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ,.theme-dark #bd-settings-sidebar .ui-tab-bar-item{line-height:20px}
 .ui-standard-sidebar-view .sidebar-region .sidebar {padding: 20px 18px 20px 23px !important;width: 210px !important;}
