@@ -2,7 +2,7 @@
 
 Download [Better Discord](https://github.com/Jiiks/BetterDiscordApp/releases) if you havent already or you cannot install the theme.
 
-# Hanabi
+# Yoru
 For designer group Yoru. EST:5 Hours. Compatible with all Light mode and Compact mode.
 
 # How to edit
