@@ -10,6 +10,6 @@ For designer group Yoru. EST:5 Hours. Compatible with all Light mode and Compact
 Can only edit background. If you have any problems please feel free to ask on my [Support server](https://discord.gg/HRDN6x9).
  
 # Quick Preview
-![My Image](https://puu.sh/Bvkmm/25abf1322b.png)
+![My Image](https://puu.sh/Bvkl6/d2214fbed7.jpg)
 ![My Image](https://puu.sh/Bvkm4/24852e40ac.jpg)
 ![My Image](https://puu.sh/Bvkmm/25abf1322b.png)
