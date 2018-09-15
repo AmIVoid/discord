@@ -56,7 +56,7 @@
 }
 
 .large-3ChYtB:not(.popout-2fzvxG):not(:hover)::after {
-  opacity: 1;
+  opacity: 0;
   transition: 180ms ease-in-out 150ms;
   animation: boop2 .5s 1 linear;
 }
@@ -99,21 +99,3 @@
   background-visibility: hidden!important;
 }
 /* Boops */
-
-/* User profile popup message box */
-
-.avatar-16XVId.avatar-1jmnc-.popout-2fzvxG {
-  border:none!important;
-  background-color: rgba(255, 255, 255, 0) !important;
-}
-
-.mask-3OgeRz {
-  border-radius: 0;
-  -webkit-mask: none;
-  mask: none;
-}
-
-.reset-voice-settings {
-  color: var(--Main-Colour) !important;
-}
-
