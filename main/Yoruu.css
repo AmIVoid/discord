@@ -65,7 +65,7 @@
   cursor: pointer;
 }
 
-.large-3ChYtB:not(.popout-2fzvxG)::before {
+/*.large-3ChYtB:not(.popout-2fzvxG)::before {
   color: rgba(0,255,0,.3);
   background: rgba(0,0,0,.5)
   font-size: 13px;
@@ -89,7 +89,7 @@
 .large-3ChYtB:not(.popout-2fzvxG).large-3ChYtB:not(.popout-2fzvxG)::before,
 .large-3ChYtB:not(.popout-2fzvxG).large-3ChYtB:not(.popout-2fzvxG)::after {
   display: inline-block!important;
-}
+}*/
 
 .avatar-17mtNa:hover {
   opacity: 1;
