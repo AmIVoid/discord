@@ -1,5 +1,9 @@
 
 .large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/371960476877193218"]::before {
+   z-index: 1;
+  position: absolute;
+  left:17%!important;
+  top:115%;  
   content: url(https://i.imgur.com/wisYqYt.png);
 }
 
