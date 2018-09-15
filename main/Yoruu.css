@@ -44,7 +44,7 @@
   transform: translate(0, -50%);
   pointer-events: none;
   transition: 80ms ease;
-  color: rgba(255,255,25,1);
+  color: rgba(255,255,25,.5);
   opacity: 0;
   animation: rainbow 3s infinite linear;
 }
