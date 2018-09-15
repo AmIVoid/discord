@@ -627,7 +627,7 @@
 /* # channel color normal and hover */
 .theme-dark .wrapper-3WhCwL {
     background-color: rgba(114, 218, 140, 0.17);
-    color: #50d45b;
+    color: #ffea00;
 }
 .theme-dark .wrapper-3WhCwL:hover {
     background-color: rgb(9, 99, 31);
@@ -710,11 +710,11 @@ https://i.imgur.com/mZuRmBg.gifv
     border-left: 4px solid #80d4ff;
 }
 .theme-dark .isMentioned-N-h9aa {
-    background: rgba(128, 212, 255, 0.1);
+    background: rgba(237, 255, 0, 0.1);
 }
 /* hover mention name color */
 .theme-dark .isMentioned-N-h9aa .mention:hover {
-    color: #2ad640;
+    color: #ffea00;
 }
 /* add friend button hover */
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary:hover:not(.selected) {
