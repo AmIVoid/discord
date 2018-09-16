@@ -1,5 +1,9 @@
 /* Serecola#0585 */
 .large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/173258379207245824"]::before {
+  z-index: 1;
+  position: absolute;
+  left:17%!important;
+  top:100%; 
   content: url(https://i.imgur.com/Edrl1Nv.png);
 }
 
