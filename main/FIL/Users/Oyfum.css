@@ -1,0 +1,13 @@
+
+.large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/213630139035156480"]::before {
+  z-index: 1;
+  position: absolute;
+  left:17%!important;
+  top:100%;  
+  content: url(https://i.imgur.com/P36BKRF.gif);
+}
+
+.large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/213630139035156480"]::after {
+  content: "Supporter \a<3";
+}
+
