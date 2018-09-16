@@ -17,7 +17,7 @@
 }
 /* border and text alignment on roles */
 .theme-dark .membersGroup-v9BXpm {
-    color: hsl(175, 0%, 47%);
+    color: hsl(315, 32%, 53%);
     border: 2px solid rgba(114, 59, 101, 0.4);
     border-radius: 5px;
     text-align: center;
@@ -404,7 +404,7 @@
 	margin: 5px;
 }
 .uploadModal-2ifh8j .footer-3mqk7D .button-primary {
-	background-color: #fff;
+	background-color: #;
 	color: rgb(17, 51, 12);
 }
 /* svg file */
@@ -432,7 +432,7 @@
 }
 /* my account opened */
 .theme-dark .input-cIJ7To {
-    border-color: rgb(9, 108, 90);
+    border-color: rgb(109, 9, 105);
 }
 .theme-dark .input-cIJ7To:focus, .theme-dark .input-cIJ7To.focused-1mmYsC {
     border-color: #15ccaa;
@@ -441,12 +441,12 @@
     border-color: #15ccaa;
 }
 .theme-dark .divider-3573oO {
-    background-color: rgb(9, 108, 90);
+    background-color: rgb(109, 9, 105);
 }
 
 /* ? button normal and hover */
 .theme-dark .questionMark-CWEQZn {
-    background-color: #096c5a;
+    background-color: #6d0969;
 }
 .theme-dark .questionMark-CWEQZn:hover {
     background-color: #15ccaa;
@@ -466,7 +466,7 @@
     color: #fff;
 }
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover, .theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected) {
-    background-color: rgba(61, 191, 43, 0.5);
+    background-color: rgba(152, 45, 159, 0.5);
 }
 /* border for authorized apps at settings */
 .theme-dark .cardPrimaryOutline-29Ujqw {
@@ -474,12 +474,12 @@
 }
 /* connections page buttons at settings normal and hover */
 .theme-dark .accountBtnInner-sj5jLs {
-    background-color: rgba(1, 105, 66, 0.9);
-    border-color: #096c5a;
+    background-color: rgba(106, 1, 104, 0.9);
+    border-color: #6d0969;
 }
 .theme-dark .accountBtnInner-sj5jLs:hover {
     background-color: rgb(7, 86, 57);
-    border-color: #096c5a;
+    border-color: #6d0969;
 }
 /* league of legends background transparency */
 .theme-dark .elevationLow-2lY09M[style*="border-color: rgb(2, 31, 37); background-color: rgb(2, 31, 37);"] {
@@ -487,9 +487,9 @@
 	background-color: rgba(2, 31, 37, 0.7)!important;
 }
 /* Steam background transparency */
-.theme-dark .elevationLow-2lY09M[style*="border-color: rgb(24, 35, 50); background-color: rgb(24, 35, 50);"] {
-	border-color: rgba(24, 35, 50, 0.7)!important; 
-	background-color: rgba(24, 35, 50, 0.7)!important;
+.theme-dark .elevationLow-2lY09M[style*="border-color: rgb(52, 25, 52); background-color: rgb(52, 25, 52);"] {
+	border-color: rgba(52, 25, 52, 0.7)!important; 
+	background-color: rgba(52, 25, 52, 0.7)!important;
 }
 /* spotify background transparency */
 .theme-dark .elevationLow-2lY09M[style*="border-color: rgb(29, 185, 84); background-color: rgb(29, 185, 84);"] {
@@ -519,25 +519,25 @@
 /* button rectangle inline */
 .theme-dark .cardPrimaryEditable-3KtE4g[style*="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218);"] {
 	background-color: rgba(145, 145, 145, 0.3)!important;
-    border: 1px solid #096c5a!important;
+    border: 1px solid #6d0969!important;
 }
 
 /* checker box */
 .theme-dark .checked-3_4uQ9, .checkbox .checkbox-inner input[type=checkbox]:checked+span {
     background-color: #014942;
-    border-color: #096c5a!important;
+    border-color: #6d0969!important;
 }
 .checkbox .checkbox-inner input[type=checkbox]:checked+span:after {
-    border-color: #0d9e84;
+    border-color: #cc5af2;
 }
-.theme-dark .checked-3_4uQ9 svg[name="Checkmark"] polyline {stroke: #0d9e84; stroke-width: 2;}
+.theme-dark .checked-3_4uQ9 svg[name="Checkmark"] polyline {stroke: #cc5af2; stroke-width: 2;}
 
 /* toggle on color ON OFF */
 .themeDefault-24hCdX.valueChecked-m-4IJZ, #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked {
     background-color: rgba(145, 145, 145, 0.3);
 }
 .themeDefault-24hCdX, #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch {
-    background-color: rgba(28, 39, 27, 0.74);
+    background-color: rgba(60, 6, 60, 0.74);
 }
 /* border and background on options that have menus at settings */
 .Select--single>.Select-control .Select-value, .Select-placeholder {
@@ -546,29 +546,29 @@
 }
 /* unable to touch buttons at settings */
 .lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
-    background-color: rgba(61, 191, 43, 0.5);
+    background-color: rgba(152, 45, 159, 0.5);
 }
 /* a background at settings PREVIEW */
 .userSettingsVoice-iwdUCU .media-engine-video {
     background-color: rgba(0,0,0,0);
 }
 .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
-    background-color: rgba(1, 105, 66, 0.2);
-    border-color: #096c5a;
+    background-color: rgba(106, 1, 104, 0.2);
+    border-color: #6d0969;
 }
 /* Overlay notifications boxes at settings */
 .wrapper-3jrx9n {
-    border: 2px solid rgba(61, 191, 43, 0.5);
+    border: 2px solid rgba(152, 45, 159, 0.5);
 }
 .option-n0icdO {
-    background-color: rgba(45, 158, 63, 0.22);
+    background-color: rgba(152, 45, 159, 0.22);
 }
 .selected-mKYnfr.option-n0icdO {
-    background-color: rgba(61, 191, 43, 0.5);
-    border-color: #096c5a;
+    background-color: rgba(152, 45, 159, 0.5);
+    border-color: #6d0969;
 }
 .option-n0icdO:hover {
-    background-color: rgba(61, 191, 43, 0.35);
+    background-color: rgba(152, 45, 159, 0.35);
 }
 /* no game detected */
 .theme-dark .user-settings-games .not-detected, .theme-light .user-settings-games .not-detected {
@@ -576,10 +576,10 @@
 }
 /* dividers settings */
 .theme-dark .item-3eFBNF {
-    box-shadow: inset 0 -1px 0 0 rgb(9, 108, 90);
+    box-shadow: inset 0 -1px 0 0 rgb(109, 9, 105);
 }
 #bd-settingspane-container .ui-switch-item .style-description {
-    border-bottom: 1px solid rgb(9, 108, 90);
+    border-bottom: 1px solid rgb(109, 9, 105);
 }
 /* buttons BD */
 .bd-pfbtn, .bda-slist .bda-footer button {
@@ -630,7 +630,7 @@
     color: #ffea00;
 }
 .theme-dark .wrapper-3WhCwL:hover {
-    background-color: rgb(9, 99, 31);
+    background-color: rgb(85, 9, 98);
     color: #fff;
 }
 /* Find or start a conversation menu background, button and hover result */
