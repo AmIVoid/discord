@@ -1,6 +1,6 @@
 # Important
 
-Download [Better Discord](https://github.com/Jiiks/BetterDiscordApp/releases) if you havent already or you cannot install the theme.
+Download [Better Discord](https://github.com/rauenzi/BetterDiscordApp/releases) if you havent already or you cannot install the theme.
 
 # Anmi
 Anmi background [Artist](https://www.pixiv.net/member.php?id=212801). EST:3 Hours. Compatible with all Light mode and Compact mode.
