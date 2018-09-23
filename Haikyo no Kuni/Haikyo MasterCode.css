@@ -358,6 +358,7 @@ body,h1,h2,h3,h4,h5,h6 {color: #fff;font-family:var(--font);text-rendering: opti
 .headerCozy-2N9HOL {position: relative;margin-left: 10px }
 .headerCozy-2N9HOL .avatar-17mtNa {position: absolute;left: -90px;top: 0}
 .headerCozy-2N9HOL .avatar-17mtNa :after {
+}
 
 /*Changelog*/
 #bd-settingspane-container .content-column.default .bda-slist::before {content: "Changelog: v1.0 - Release of theme."}
