@@ -1,6 +1,6 @@
 //META{"name":"廃墟の国  |","description":"ここに来ちゃいけない","author":"*Void","version":"ersion auto updates","website":"https://discord.gg/HRDN6x9","source":"https://github.com/AmIVoid/discord"}*//{}
 
-@import url(https://cdn.rawgit.com/AmIVoid/discord/c099a55c/Haikyo%20no%20Kuni/Haikyo%20MasterCode.css);
+@import url(https://rawgit.com/AmIVoid/discord/master/Haikyo%20no%20Kuni/廃墟の国.theme.css);
 
 :root {
 	--load1: "Theme loading";			/* Loading text 1																	*/
