@@ -1,3 +1,9 @@
+@import url(https://rawgit.com/AmIVoid/discord/master/main/FIL/FIL.css);
+@import url(https://rawgit.com/AmIVoid/discord/master/Haikyo%20no%20Kuni/Haikyoo.css);
+@import url(https://rawgit.com/AmIVoid/discord/master/Haikyo%20no%20Kuni/Chat.css);
+@import url(https://highguard.github.io/discord-popout-overhaul-theme/css/theme.css);
+
+
 /* Scrollbars */
 ::-webkit-scrollbar-thumb {border-radius:1px!important;border-color: transparent !important;background: var(--sc) !important;} 
 ::-webkit-scrollbar, ::-webkit-scrollbar-track-piece {width:8px !important;border-color: transparent !important; background: transparent !important;} 
