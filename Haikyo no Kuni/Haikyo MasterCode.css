@@ -348,13 +348,6 @@ body,h1,h2,h3,h4,h5,h6 {color: #fff;font-family:var(--font);text-rendering: opti
 .titleCall-_b9o8P .flex-1xMQg5.horizontal-1ae9ci,
 .headerBar-UHpsPw .flex-1xMQg5.horizontal-1ae9ci{margin-right:72px}
 
-/* Chat Bubbles */
-
-:root{
---cba1: rgba(0, 0, 0, .5); /* Background colour & transparency */
---round2: 15px /* Bubble roundness 0-30px */
-}
-	
 /*Changelog*/
 #bd-settingspane-container .content-column.default .bda-slist::before {content: "Changelog: v1.0 - Release of theme."}
 #bd-settingspane-container .bda-slist::before {
