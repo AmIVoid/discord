@@ -1,0 +1,23 @@
+//META{"name":"廃墟の国  |","description":"ここに来ちゃいけない","author":"*Void","version":"ersion auto updates","website":"https://discord.gg/HRDN6x9","source":"https://github.com/AmIVoid/discord"}*//{}
+
+@import url(https://cdn.rawgit.com/AmIVoid/discord/c099a55c/Haikyo%20no%20Kuni/Haikyo%20MasterCode.css);
+
+:root {
+	--load1: "Theme loading";			/* Loading text 1																	*/
+	--load2: "Follow me on Twitter";	/* Loading text 2																	*/
+	--load3: "@AmyyVoid";				/* Loading text 3																	*/
+    --light: rgba(0, 0, 0, .5); 		/* Overall brightness. 1= black, 0 = transparent 									*/
+    --userlight:rgba(0, 0, 0, 0.5);		/* Brightness for the userpopouts 													*/
+	--mc: hsla(0, 0%, 15%, 0.3);		/* Main colour. Larger items, backgrounds. 											*/
+	--sc: hsla(300, 80%, 100%, 0.8);	/* Accent/Secondary colour. Borders, notifications & such.  						*/
+	--bc: hsla(0, 0%, 15%, 0.8);		/* All borders/box shadows. 														*/
+	--round: 50%;						/* Overall Icon roundness 															*/
+	--font: sans-serif;					/* I dont want to add fonts 														*/
+	--font-size: 17px;             		/* Pretty self explanitory 															*/
+	--text:  #eee; 						/* Text colour. 																	*/
+	--block: none;						/* Show/Hide blocked msgs 															*/
+	--size: 35px;						/* Guild Icon Size																	*/
+}
+.appMount-3VJmYg {background: url(https://i.imgur.com/Tw86UjZ.png) center/cover no-repeat} 									/* Main background */
+.userPopout-3XzG_A {background: url(https://i.imgur.com/Tw86UjZ.png) center/cover no-repeat} 								/* User popout image */
+.homeIcon-1FoKUJ{background: url(https://thumbs.gfycat.com/SourTightCaracal-size_restricted.gif) no-repeat center/cover} 	/* Friends list image */
