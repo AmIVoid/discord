@@ -362,33 +362,3 @@ body,h1,h2,h3,h4,h5,h6 {color: #fff;font-family:var(--font);text-rendering: opti
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     font-weight: 600;margin-top: 2px;color: #fff}
 
-@-webkit-keyframes cv-init{0%{content:var(--load1);-webkit-transform:scale(.7);transform:scale(.7)}
-25%{opacity:0;-webkit-transform:scale(.7);transform:scale(.7)}
-30%{opacity:.3;-webkit-transform:scale(1);transform:scale(1)}
-45%{opacity:.3;-webkit-transform:scale(1);transform:scale(1)}
-49%{content:var(--load1);opacity:0;-webkit-transform:scale(1.3);transform:scale(1.3)}
-50%{content:var(--load2);opacity:0;-webkit-transform:scale(.7);transform:scale(.7)}
-55%{opacity:.3;-webkit-transform:scale(1);transform:scale(1)}
-70%{opacity:.3;-webkit-transform:scale(1);transform:scale(1)}
-74%{content:var(--load2);opacity:0;-webkit-transform:scale(1.3);transform:scale(1.3)}
-75%{content:var(--load3);opacity:0;-webkit-transform:scale(.7);transform:scale(.7)}
-80%{opacity:.3;-webkit-transform:scale(1);transform:scale(1)}
-95%{opacity:.3;-webkit-transform:scale(1);transform:scale(1)}
-99%{content:var(--load3);opacity:0;-webkit-transform:scale(.7);transform:scale(.7)}
-100%{content:"";-webkit-transform:scale(1);transform:scale(1);opacity:0}
-}
-@keyframes cv-init{0%{content:var(--load1);-webkit-transform:scale(.7);transform:scale(.7)}
-25%{opacity:0;-webkit-transform:scale(.7);transform:scale(.7)}
-30%{opacity:.3;-webkit-transform:scale(1);transform:scale(1)}
-45%{opacity:.3;-webkit-transform:scale(1);transform:scale(1)}
-49%{content:var(--load1);opacity:0;-webkit-transform:scale(1.3);transform:scale(1.3)}
-50%{content:var(--load2);opacity:0;-webkit-transform:scale(.7);transform:scale(.7)}
-55%{opacity:.3;-webkit-transform:scale(1);transform:scale(1)}
-70%{opacity:.3;-webkit-transform:scale(1);transform:scale(1)}
-74%{content:var(--load2);opacity:0;-webkit-transform:scale(1.3);transform:scale(1.3)}
-75%{content:var(--load3);opacity:0;-webkit-transform:scale(.7);transform:scale(.7)}
-80%{opacity:.3;-webkit-transform:scale(1);transform:scale(1)}
-95%{opacity:.3;-webkit-transform:scale(1);transform:scale(1)}
-99%{content:var(--load3);opacity:0;-webkit-transform:scale(.7);transform:scale(.7)}
-100%{content:"";-webkit-transform:scale(1);transform:scale(1);opacity:0}
-}
