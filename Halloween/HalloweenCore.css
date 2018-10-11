@@ -177,8 +177,8 @@ a,.wrapper-O5i5-0 .instantInviteModal-3vhcvC .clipboardInputInner-RLx2hK input {
 .guild-1EfMGQ,
 .iconSizeLarge-161qtT,
 .guild-1EfMGQ .guildInner-3DSoA4 a {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
 }
 .guildsAddInner-1KMFy-{
   top: -4px;
@@ -194,7 +194,7 @@ a,.wrapper-O5i5-0 .instantInviteModal-3vhcvC .clipboardInputInner-RLx2hK input {
 }
 .theme-dark .guildsAdd-21_IdK {
     background-color: transparent;
-    position: relative;
+    position: absolute;
     bottom: 10px;
     color: #fff;
 }
@@ -203,7 +203,7 @@ a,.wrapper-O5i5-0 .instantInviteModal-3vhcvC .clipboardInputInner-RLx2hK input {
   background: var(--grey);
 }
 .guild-1EfMGQ .avatar-small {
-  height: 50px;
+  height: 40px;
 }
 .guildSeparator-1X4GQ1:after {
   content: none;
