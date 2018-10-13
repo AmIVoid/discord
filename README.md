@@ -2,7 +2,7 @@
 
 Download [Better Discord](https://github.com/rauenzi/BetterDiscordApp/releases) if you havent already or you cannot install the theme. I recommend downloading [Discord PTB and Bandaged Better Discord](https://drive.google.com/drive/folders/1tJVDr2MBInkcYpwVtGYyY5UfNNDTXxbL?usp=sharing)
 
-# Happy Halloween
+# [Happy Halloween](http://www.mediafire.com/file/mjvv7r4ypnu7ueb/HappyHalloween.theme.css/file)
 Festive halloween theme. EST: 8 Hours. Compatible with all Light mode and Compact mode.
 
 # How to edit
