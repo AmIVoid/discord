@@ -791,18 +791,18 @@ a,
 .payment-info .description-3_Ncsb:hover, .paymentSourceRow-3FbcL_ .subText-V8PTt8:hover, .userSettingsAccount-2eMFVR div:nth-child(2) > div:nth-child(2) > .viewBody-2Qz-jg:hover {transition: .2s ease-out;filter: none}
 
 .theme-dark .gameLibrary-TTDw4Y {
-	background-color: rgba(0,0,0,0)
+	background-color: rgba(0,0,0,0);
 }
 
 .theme-dark .header-39GIC8 {
-	background-color: rgba(0,0,0,0)
+	background-color: rgba(0,0,0,0);
 }
 
 .theme-dark .applicationStore-1pNvnv {
-	background-color: rgba(0,0,0,0)
+	background-color: rgba(0,0,0,0);
 }
 
 .theme-dark .itemBackground-1jfD8p::before {
-	background-color: rgba(0,0,0,0)
-	border-radius: 6px
+	background-color: rgba(0,0,0,0);
+	border-radius: 6px;
 }
