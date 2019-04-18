@@ -953,7 +953,7 @@
 }
 
 /* My friends and my borders */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="402272736665272320"]::after,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="213630139035156480"]::after,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="182064839827521536"]::after {
   content: '';
   position: absolute;
@@ -969,7 +969,7 @@
   z-index: -1;
 }
 
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="402272736665272320"]::after {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="213630139035156480"]::after {
   background-image: url(https://i.imgur.com/FdXrSXf.gif);
 }
 
@@ -981,7 +981,7 @@
 
 
 /* badges */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="402272736665272320"]::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="213630139035156480"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="134349083568504832"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="214318588331294720"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="116243287936860167"]::before,
@@ -1042,21 +1042,21 @@
 }
 
 /* mine */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="402272736665272320"]::before {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="213630139035156480"]::before {
   background-image: url(https://monstrousdev.github.io/themes/assets/svgs/elleCrown.svg);
   transition: filter .2s ease-in-out;
   transform: scale(1.1);
 }
 
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="402272736665272320"]:hover::before {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="213630139035156480"]:hover::before {
   filter: drop-shadow(0 0 3px #fddfaa);
 }
 
-.userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="402272736665272320"] + .status-oxiHuE {
+.userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="213630139035156480"] + .status-oxiHuE {
   left: -96%;
 }
 
-.userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="402272736665272320"] {
+.userPopout-3XzG_A .headerNormal-T_seeN .image-33JSyf[style*="213630139035156480"] {
   animation: none;
   border: 3px solid;
   border-image: linear-gradient(darkred 20%, goldenrod, darkred 80%) 1;
@@ -1385,7 +1385,7 @@
   display: block;
 }
 
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="402272736665272320"]:hover::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="213630139035156480"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="134349083568504832"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="214318588331294720"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="116243287936860167"]:hover::before,
