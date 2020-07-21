@@ -1,5 +1,5 @@
 /* 96.4#6641 */
-.large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/213630139035156480"]::before {
+.large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/500639220436566016"]::before {
   z-index: 1;
   position: absolute;
   left:17%!important;
@@ -7,7 +7,7 @@
   content: url(https://i.imgur.com/PQUitfX.gif);
 }
 
-.large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/213630139035156480"]::after {
+.large-3ChYtB:not(.popout-2fzvxG)[style*="avatars/500639220436566016"]::after {
   content: "Theme Dev";
 }
 /* 96.4#6641 */
